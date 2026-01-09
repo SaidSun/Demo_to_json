@@ -1,0 +1,19 @@
+{
+  "match_id": "2378228",
+  "meta_by_game_num": {
+    "1": {
+      "tickrate_demoparser2": 64.0,
+      "tickrate_rounds_median": 85.33333333333333,
+      "freeze_time_seconds": 15,
+      "round_time_seconds": 115,
+      "bomb_time_seconds": 40
+    },
+    "2": {
+      "tickrate_demoparser2": 64.0,
+      "tickrate_rounds_median": 85.33333333333333,
+      "freeze_time_seconds": 15,
+      "round_time_seconds": 115,
+      "bomb_time_seconds": 40
+    }
+  }
+}

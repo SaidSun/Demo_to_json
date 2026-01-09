@@ -1,0 +1,65 @@
+{
+  "match_id": "2378228",
+  "by_game_num": {
+    "1": {
+      "match_id": "2378228",
+      "map": "de_train",
+      "map_key": "virtus-pro-vs-vitality-m1-train",
+      "header": {
+        "game_directory": "/home/dathost/cs2_linux/game/csgo",
+        "demo_file_stamp": "PBDEMS2\u0000",
+        "server_name": "BLAST Bounty CS2 Server",
+        "map_name": "de_train",
+        "fullpackets_version": "2",
+        "demo_version_name": "valve_demo_2",
+        "client_name": "SourceTV Demo",
+        "demo_version_guid": "8e9d71ab-04a1-4c01-bb61-acfede27c046",
+        "patch_version": "14059",
+        "allow_clientside_particles": true,
+        "allow_clientside_entities": true,
+        "addons": ""
+      },
+      "meta": {
+        "team1": {
+          "name": "Virtus.pro",
+          "side": "T"
+        },
+        "team2": {
+          "name": "Vitality",
+          "side": "CT"
+        },
+        "rar_file": "blast-bounty-2025-season-1-virtuspro-vs-vitality-bo3-r4BqN9HxvVadutw1aLT37P.rar"
+      }
+    },
+    "2": {
+      "match_id": "2378228",
+      "map": "de_inferno",
+      "map_key": "virtus-pro-vs-vitality-m2-inferno",
+      "header": {
+        "demo_file_stamp": "PBDEMS2\u0000",
+        "map_name": "de_inferno",
+        "patch_version": "14059",
+        "game_directory": "/home/dathost/cs2_linux/game/csgo",
+        "allow_clientside_entities": true,
+        "allow_clientside_particles": true,
+        "demo_version_name": "valve_demo_2",
+        "addons": "",
+        "demo_version_guid": "8e9d71ab-04a1-4c01-bb61-acfede27c046",
+        "client_name": "SourceTV Demo",
+        "server_name": "BLAST Bounty CS2 Server",
+        "fullpackets_version": "2"
+      },
+      "meta": {
+        "team1": {
+          "name": "Virtus.pro",
+          "side": "T"
+        },
+        "team2": {
+          "name": "Vitality",
+          "side": "CT"
+        },
+        "rar_file": "blast-bounty-2025-season-1-virtuspro-vs-vitality-bo3-r4BqN9HxvVadutw1aLT37P.rar"
+      }
+    }
+  }
+}
